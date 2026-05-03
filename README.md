@@ -103,7 +103,7 @@ The log file will be saved in the `logs/` directory as `sensor_log_YYYY-MM-DD.tx
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║         INDUSTRIAL ALERT SIMULATOR — NCTPS-2 INSPIRED           ║
+║         INDUSTRIAL ALERT SIMULATOR — NCTPS-2 INSPIRED            ║
 ║         Power Plant Sensor Monitoring System v1.0                ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  Sensor          | Unit | Warn Threshold | Critical Threshold    ║
@@ -119,9 +119,9 @@ The log file will be saved in the `logs/` directory as `sensor_log_YYYY-MM-DD.tx
 [2026-05-03 10:45:01] Load             557.92 MW    [WARNING]  → Exceeds threshold 550.00 MW
 
 ╔══════════════════════════════════════════════════════════╗
-║  [2026-05-03 10:45:03] ✖ CRITICAL ALARM            ║
+║  [2026-05-03 10:45:03] ✖ CRITICAL ALARM                  ║
 ║  Sensor  : Temperature                                   ║
-║  Reading : 537.81 °C    (Critical limit: 535.00 °C  )   ║
+║  Reading : 537.81 °C    (Critical limit: 535.00 °C  )    ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
